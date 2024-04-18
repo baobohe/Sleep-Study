@@ -16,9 +16,3 @@ The dataset comprises over 4000 sleep recordings and related health data from th
 - **Machine Learning**: Applied AdaBoost algorithms and SVM for predictive modeling and extracted insights into age-specific sleep pattern variations.
 - **Statistical Analysis**: Synthesized findings into predictive models to aid in diagnosis and healthcare policy development.
 
-│   └── Statistical_Analysis.R
-└── Documentation/
-    ├── Proposal.pdf
-    ├── Proposal_Presentation.pptx
-    ├── Update.pdf
-    └── Update_Presentation.pptx
